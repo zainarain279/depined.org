@@ -6,7 +6,7 @@
  npm install
 pip install -r requirements.txt
 
-2️⃣ tokens.txt stores tokens, you can get them in 2 ways (see https://t.me/airdrophuntersieutoc/443 )
+2️⃣ tokens.txt stores tokens, you can get them in 2 ways 
 
 proxy.txt save proxy proxy format: http://user:pass@ip:port
 
